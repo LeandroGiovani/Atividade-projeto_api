@@ -2,7 +2,7 @@ Python é uma linguagem de programação de alto nível, interpretada, de uso ge
 Ela foi criada por Guido van Rossum na década de 1990 e se tornou uma das linguagens de programação mais populares.
 O Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
 
-Tutorial instalação do Python
-1. Acesse a página oficial para realizar o download do instalador do Python na versão 3.8 e abra-o em seguida.
-2. Com o instalador aberto tenha a certeza de ter marcado as opções “Add Python 3.8 to PATH” para que o comando python fique disponível.
-3. Por fim clique em “Install Now” e siga o processo padrão de instalação de programas no Windows (next, next, next, finish).
+Tutorial download do Python
+1. Acesse o site oficial do Python
+2. Escolha a versão correta do Python
+3. Clique em download
