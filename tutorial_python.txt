@@ -1,4 +1,3 @@
 Python é uma linguagem de programação de alto nível, interpretada, de uso geral, multiparadigma e dinâmica. 
 Ela foi criada por Guido van Rossum na década de 1990 e se tornou uma das linguagens de programação mais populares.
 O Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
-
