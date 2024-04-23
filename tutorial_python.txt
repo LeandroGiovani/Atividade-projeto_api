@@ -6,3 +6,8 @@ Tutorial download do Python
 1. Acesse o site oficial do Python
 2. Escolha a versão correta do Python
 3. Clique em download
+
+Tutorial instalação do Python
+1. Vá até a pasta na qual foi feito o download do instalador do Python 3.8 e abra-o em seguida.
+2. Com o instalador aberto tenha a certeza de ter marcado as opções “Add Python 3.8 to PATH” para que o comando python fique disponível.
+3. Por fim clique em “Install Now” e siga o processo padrão de instalação de programas no Windows (next, next, next, finish).
