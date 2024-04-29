@@ -2,10 +2,12 @@ Python é uma linguagem de programação de alto nível, interpretada, de uso ge
 Ela foi criada por Guido van Rossum na década de 1990 e se tornou uma das linguagens de programação mais populares.
 O Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
 
+
 Tutorial download do Python
 1. Acesse o site oficial do Python
 2. Escolha a versão correta do Python
 3. Clique em download
+
 
 Tutorial instalação do Python
 1. Vá até a pasta na qual foi feito o download do instalador do Python 3.8 e abra-o em seguida.
@@ -17,12 +19,23 @@ O Virtualenv é uma ferramenta que permite criar e gerenciar ambientes virtuais 
 Com o Virtualenv, você pode criar um ambiente separado para cada projeto, garantindo que as dependências sejam instaladas e mantidas separadamente. 
 Isso oferece uma série de benefícios e facilita o desenvolvimento de aplicações Python.
 
+
 Criando o Virtualenv
 1. Abra o terminal do git bash
 2. Digite o código "python -m venv .venv"
 3. Em seguida ative o virtualenv com o código "source .venv/Scripts/activate"
 
+
 Instalando o Flask no Virtualenv
 1. Com o Virtualenv ativado atualize o pip com o comando "python -m pip install --upgrade pip." (Opcional)
 2. Instale o flask com o comando "pip install Flask"
 3. Verifique a instalação com o "pip freeze"
+
+
+Tutorial configuração e sincronização do github com o repositório remoto
+1. Se ainda não possuir, crie um repositório no github e anote o url desse repositório.
+2. Abra o terminal e navegue até o diretório onde deseja criar o repositório.
+3. Inicialize um repositório git local com o comando "git init".
+4. Adicione o repositório remoto digitando o seguinte comando no terminal dpo gitbash "git remote add origin <URL_DO_REPOSITÓRIO_REMOTO>"
+5. Verifique se o repositório remoto foi adicionado corretamente, execute o comando "git remote -v"
+6. Para enviar os arquivos do repositório local para o remoto basta depois dos commits já feitos executar o comando "git push origin <NOME_DA_BRANCH>"
