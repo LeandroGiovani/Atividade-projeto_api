@@ -1,0 +1,8 @@
+# Projeto API Flask
+## Atividade proposta pelo SENAI
+
+### O projeto_api foi um projeto desenvolvido como proposta de atividade do SENAI, nesse repositório foi criado uma API em python flask, onde foi desenvolvido várias rotas responsáveis por executar determinada função.
+
+### Esse repositório também foi muito bem organizado, possuindo 3 arquivos python (app.py, funcoes.py e random_data.py). O app.py é responsável pela criação e execução da aplicação, e responsável por determinar as rotas deste projeto. Já no funcoes.py está localizado todas as funções que o app.py executa, funcionando como uma espécie de biblioteca de funções. Por último, temos a random_data onde se encontra todos os dados relacionados as pessoas que a aplicação itera.
+
+### Como complemento, existem alguns arquivos adicionais que aumentam a qualidade de organização do código. Dentre eles, podemos citar o tutorial_python.txt que como o nome já diz nele é explicado como deve ser feito a instalação do python e a virtualenv para o projeto rodar normalmente. Nesse projeto temos o requirements.txt, onde basicamente determina todas as dependências necessarias instaladas pelo venv para que o porjeto seja executado. Por fim, temos o .venv/ e o .gitignore, a pasta .venv/ é a responsável pelo nosso ambiente virtual, onde instalamos as dependências e rodamos por ele, evitando instala-las na nossa maquina, já o .gitignore evita que o .venv/ seja commitado e consequentemente puxado para o repositório no github.
